@@ -1,0 +1,10 @@
+export { MediaProductionSuite } from './MediaProductionSuite';
+export { AudioEditor } from './AudioEditor';
+export { VideoEditor } from './VideoEditor';
+export { PlaylistManager } from './PlaylistManager';
+export { ScreenRecorder } from './ScreenRecorder';
+export { AmbientAudioMixer } from './AmbientAudioMixer';
+export { MediaExportSystem } from './MediaExportSystem';
+export { MediaHosting } from './MediaHosting';
+export { BfxrIntegration } from './BfxrIntegration';
+export { AIVocalRemover } from './AIVocalRemover';
